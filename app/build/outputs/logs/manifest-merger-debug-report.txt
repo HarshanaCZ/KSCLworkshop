@@ -1,139 +1,139 @@
 -- Merging decision tree log ---
 manifest
-ADDED from C:\Users\Pium Sudhara\Desktop\Calculator-App\app\src\main\AndroidManifest.xml:2:1-21:12
-INJECTED from C:\Users\Pium Sudhara\Desktop\Calculator-App\app\src\main\AndroidManifest.xml:2:1-21:12
-INJECTED from C:\Users\Pium Sudhara\Desktop\Calculator-App\app\src\main\AndroidManifest.xml:2:1-21:12
-INJECTED from C:\Users\Pium Sudhara\Desktop\Calculator-App\app\src\main\AndroidManifest.xml:2:1-21:12
-MERGED from [com.android.support:appcompat-v7:25.3.1] C:\Users\Pium Sudhara\.gradle\caches\transforms-1\files-1.1\appcompat-v7-25.3.1.aar\c43f46df6e9a48e10eb14264bd32c90b\AndroidManifest.xml:17:1-31:12
-MERGED from [com.android.support.constraint:constraint-layout:1.0.2] C:\Users\Pium Sudhara\.gradle\caches\transforms-1\files-1.1\constraint-layout-1.0.2.aar\14bc44a454e064faf90385fad8951ff4\AndroidManifest.xml:2:1-11:12
-MERGED from [com.android.support:animated-vector-drawable:25.3.1] C:\Users\Pium Sudhara\.gradle\caches\transforms-1\files-1.1\animated-vector-drawable-25.3.1.aar\9d086c4577b40606fb38907fa525beeb\AndroidManifest.xml:17:1-28:12
-MERGED from [com.android.support:support-vector-drawable:25.3.1] C:\Users\Pium Sudhara\.gradle\caches\transforms-1\files-1.1\support-vector-drawable-25.3.1.aar\8776ab1f15f7f10313d3e5dbe8563496\AndroidManifest.xml:17:1-28:12
-MERGED from [com.android.support:support-v4:25.3.1] C:\Users\Pium Sudhara\.gradle\caches\transforms-1\files-1.1\support-v4-25.3.1.aar\65984f263895d4332daa85cf65bee883\AndroidManifest.xml:17:1-31:12
-MERGED from [com.android.support:support-fragment:25.3.1] C:\Users\Pium Sudhara\.gradle\caches\transforms-1\files-1.1\support-fragment-25.3.1.aar\a5b252b9daf622023493610847b96cd7\AndroidManifest.xml:17:1-31:12
-MERGED from [com.android.support:support-media-compat:25.3.1] C:\Users\Pium Sudhara\.gradle\caches\transforms-1\files-1.1\support-media-compat-25.3.1.aar\56622594bfda9a8cabec4597b2d5d3fb\AndroidManifest.xml:17:1-31:12
-MERGED from [com.android.support:support-core-utils:25.3.1] C:\Users\Pium Sudhara\.gradle\caches\transforms-1\files-1.1\support-core-utils-25.3.1.aar\6149b7b34ee5b37bdf76a89a5eb3bd40\AndroidManifest.xml:17:1-31:12
-MERGED from [com.android.support:support-core-ui:25.3.1] C:\Users\Pium Sudhara\.gradle\caches\transforms-1\files-1.1\support-core-ui-25.3.1.aar\a635974e2ecace531d7e6b7a607eed2b\AndroidManifest.xml:17:1-31:12
-MERGED from [com.android.support:support-compat:25.3.1] C:\Users\Pium Sudhara\.gradle\caches\transforms-1\files-1.1\support-compat-25.3.1.aar\b1dba8217969cfe856a4798dc5a62746\AndroidManifest.xml:17:1-31:12
-INJECTED from C:\Users\Pium Sudhara\Desktop\Calculator-App\app\src\main\AndroidManifest.xml:2:1-21:12
-INJECTED from C:\Users\Pium Sudhara\Desktop\Calculator-App\app\src\main\AndroidManifest.xml:2:1-21:12
-INJECTED from C:\Users\Pium Sudhara\Desktop\Calculator-App\app\src\main\AndroidManifest.xml:2:1-21:12
+ADDED from C:\Users\school\Desktop\cal\KSCLworkshop\app\src\main\AndroidManifest.xml:2:1-21:12
+INJECTED from C:\Users\school\Desktop\cal\KSCLworkshop\app\src\main\AndroidManifest.xml:2:1-21:12
+INJECTED from C:\Users\school\Desktop\cal\KSCLworkshop\app\src\main\AndroidManifest.xml:2:1-21:12
+INJECTED from C:\Users\school\Desktop\cal\KSCLworkshop\app\src\main\AndroidManifest.xml:2:1-21:12
+MERGED from [com.android.support:appcompat-v7:25.3.1] C:\Users\school\.gradle\caches\transforms-1\files-1.1\appcompat-v7-25.3.1.aar\36b3b70b5468fa4621152fee03a074c3\AndroidManifest.xml:17:1-31:12
+MERGED from [com.android.support.constraint:constraint-layout:1.0.2] C:\Users\school\.gradle\caches\transforms-1\files-1.1\constraint-layout-1.0.2.aar\d2605e4d663bb38cbd77d1cda1a39bdc\AndroidManifest.xml:2:1-11:12
+MERGED from [com.android.support:animated-vector-drawable:25.3.1] C:\Users\school\.gradle\caches\transforms-1\files-1.1\animated-vector-drawable-25.3.1.aar\24e6ba568dac3fda3af6f30ff79e16e2\AndroidManifest.xml:17:1-28:12
+MERGED from [com.android.support:support-vector-drawable:25.3.1] C:\Users\school\.gradle\caches\transforms-1\files-1.1\support-vector-drawable-25.3.1.aar\f4398c0ce656b723d023a89b9207859c\AndroidManifest.xml:17:1-28:12
+MERGED from [com.android.support:support-v4:25.3.1] C:\Users\school\.gradle\caches\transforms-1\files-1.1\support-v4-25.3.1.aar\6fc71e533c5b68efb4cdc5c41a52bc1e\AndroidManifest.xml:17:1-31:12
+MERGED from [com.android.support:support-fragment:25.3.1] C:\Users\school\.gradle\caches\transforms-1\files-1.1\support-fragment-25.3.1.aar\0e0dfdf8e1bb8ddf77f487becad54517\AndroidManifest.xml:17:1-31:12
+MERGED from [com.android.support:support-media-compat:25.3.1] C:\Users\school\.gradle\caches\transforms-1\files-1.1\support-media-compat-25.3.1.aar\288aebd65102ed09be0e238ec5a4ea3b\AndroidManifest.xml:17:1-31:12
+MERGED from [com.android.support:support-core-utils:25.3.1] C:\Users\school\.gradle\caches\transforms-1\files-1.1\support-core-utils-25.3.1.aar\a7c9225ae47a5921d5edbd1e0072658c\AndroidManifest.xml:17:1-31:12
+MERGED from [com.android.support:support-core-ui:25.3.1] C:\Users\school\.gradle\caches\transforms-1\files-1.1\support-core-ui-25.3.1.aar\87cfed65b769ff7248224b5c12ce21c4\AndroidManifest.xml:17:1-31:12
+MERGED from [com.android.support:support-compat:25.3.1] C:\Users\school\.gradle\caches\transforms-1\files-1.1\support-compat-25.3.1.aar\4bf001a7a1c555cfa2947133da042d0f\AndroidManifest.xml:17:1-31:12
+INJECTED from C:\Users\school\Desktop\cal\KSCLworkshop\app\src\main\AndroidManifest.xml:2:1-21:12
+INJECTED from C:\Users\school\Desktop\cal\KSCLworkshop\app\src\main\AndroidManifest.xml:2:1-21:12
+INJECTED from C:\Users\school\Desktop\cal\KSCLworkshop\app\src\main\AndroidManifest.xml:2:1-21:12
 	package
-		ADDED from C:\Users\Pium Sudhara\Desktop\Calculator-App\app\src\main\AndroidManifest.xml:3:5-39
-		INJECTED from C:\Users\Pium Sudhara\Desktop\Calculator-App\app\src\main\AndroidManifest.xml
-		INJECTED from C:\Users\Pium Sudhara\Desktop\Calculator-App\app\src\main\AndroidManifest.xml
+		ADDED from C:\Users\school\Desktop\cal\KSCLworkshop\app\src\main\AndroidManifest.xml:3:5-39
+		INJECTED from C:\Users\school\Desktop\cal\KSCLworkshop\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\school\Desktop\cal\KSCLworkshop\app\src\main\AndroidManifest.xml
 	android:versionName
-		INJECTED from C:\Users\Pium Sudhara\Desktop\Calculator-App\app\src\main\AndroidManifest.xml
-		ADDED from C:\Users\Pium Sudhara\Desktop\Calculator-App\app\src\main\AndroidManifest.xml:2:1-21:12
-		INJECTED from C:\Users\Pium Sudhara\Desktop\Calculator-App\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\school\Desktop\cal\KSCLworkshop\app\src\main\AndroidManifest.xml
+		ADDED from C:\Users\school\Desktop\cal\KSCLworkshop\app\src\main\AndroidManifest.xml:2:1-21:12
+		INJECTED from C:\Users\school\Desktop\cal\KSCLworkshop\app\src\main\AndroidManifest.xml
 	android:versionCode
-		INJECTED from C:\Users\Pium Sudhara\Desktop\Calculator-App\app\src\main\AndroidManifest.xml
-		ADDED from C:\Users\Pium Sudhara\Desktop\Calculator-App\app\src\main\AndroidManifest.xml:2:1-21:12
-		INJECTED from C:\Users\Pium Sudhara\Desktop\Calculator-App\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\school\Desktop\cal\KSCLworkshop\app\src\main\AndroidManifest.xml
+		ADDED from C:\Users\school\Desktop\cal\KSCLworkshop\app\src\main\AndroidManifest.xml:2:1-21:12
+		INJECTED from C:\Users\school\Desktop\cal\KSCLworkshop\app\src\main\AndroidManifest.xml
 	xmlns:android
-		ADDED from C:\Users\Pium Sudhara\Desktop\Calculator-App\app\src\main\AndroidManifest.xml:2:11-69
+		ADDED from C:\Users\school\Desktop\cal\KSCLworkshop\app\src\main\AndroidManifest.xml:2:11-69
 application
-ADDED from C:\Users\Pium Sudhara\Desktop\Calculator-App\app\src\main\AndroidManifest.xml:5:5-19:19
-MERGED from [com.android.support:appcompat-v7:25.3.1] C:\Users\Pium Sudhara\.gradle\caches\transforms-1\files-1.1\appcompat-v7-25.3.1.aar\c43f46df6e9a48e10eb14264bd32c90b\AndroidManifest.xml:29:5-20
-MERGED from [com.android.support:appcompat-v7:25.3.1] C:\Users\Pium Sudhara\.gradle\caches\transforms-1\files-1.1\appcompat-v7-25.3.1.aar\c43f46df6e9a48e10eb14264bd32c90b\AndroidManifest.xml:29:5-20
-MERGED from [com.android.support.constraint:constraint-layout:1.0.2] C:\Users\Pium Sudhara\.gradle\caches\transforms-1\files-1.1\constraint-layout-1.0.2.aar\14bc44a454e064faf90385fad8951ff4\AndroidManifest.xml:9:5-20
-MERGED from [com.android.support.constraint:constraint-layout:1.0.2] C:\Users\Pium Sudhara\.gradle\caches\transforms-1\files-1.1\constraint-layout-1.0.2.aar\14bc44a454e064faf90385fad8951ff4\AndroidManifest.xml:9:5-20
-MERGED from [com.android.support:animated-vector-drawable:25.3.1] C:\Users\Pium Sudhara\.gradle\caches\transforms-1\files-1.1\animated-vector-drawable-25.3.1.aar\9d086c4577b40606fb38907fa525beeb\AndroidManifest.xml:26:5-20
-MERGED from [com.android.support:animated-vector-drawable:25.3.1] C:\Users\Pium Sudhara\.gradle\caches\transforms-1\files-1.1\animated-vector-drawable-25.3.1.aar\9d086c4577b40606fb38907fa525beeb\AndroidManifest.xml:26:5-20
-MERGED from [com.android.support:support-vector-drawable:25.3.1] C:\Users\Pium Sudhara\.gradle\caches\transforms-1\files-1.1\support-vector-drawable-25.3.1.aar\8776ab1f15f7f10313d3e5dbe8563496\AndroidManifest.xml:26:5-20
-MERGED from [com.android.support:support-vector-drawable:25.3.1] C:\Users\Pium Sudhara\.gradle\caches\transforms-1\files-1.1\support-vector-drawable-25.3.1.aar\8776ab1f15f7f10313d3e5dbe8563496\AndroidManifest.xml:26:5-20
-MERGED from [com.android.support:support-v4:25.3.1] C:\Users\Pium Sudhara\.gradle\caches\transforms-1\files-1.1\support-v4-25.3.1.aar\65984f263895d4332daa85cf65bee883\AndroidManifest.xml:29:5-20
-MERGED from [com.android.support:support-v4:25.3.1] C:\Users\Pium Sudhara\.gradle\caches\transforms-1\files-1.1\support-v4-25.3.1.aar\65984f263895d4332daa85cf65bee883\AndroidManifest.xml:29:5-20
-MERGED from [com.android.support:support-fragment:25.3.1] C:\Users\Pium Sudhara\.gradle\caches\transforms-1\files-1.1\support-fragment-25.3.1.aar\a5b252b9daf622023493610847b96cd7\AndroidManifest.xml:29:5-20
-MERGED from [com.android.support:support-fragment:25.3.1] C:\Users\Pium Sudhara\.gradle\caches\transforms-1\files-1.1\support-fragment-25.3.1.aar\a5b252b9daf622023493610847b96cd7\AndroidManifest.xml:29:5-20
-MERGED from [com.android.support:support-media-compat:25.3.1] C:\Users\Pium Sudhara\.gradle\caches\transforms-1\files-1.1\support-media-compat-25.3.1.aar\56622594bfda9a8cabec4597b2d5d3fb\AndroidManifest.xml:29:5-20
-MERGED from [com.android.support:support-media-compat:25.3.1] C:\Users\Pium Sudhara\.gradle\caches\transforms-1\files-1.1\support-media-compat-25.3.1.aar\56622594bfda9a8cabec4597b2d5d3fb\AndroidManifest.xml:29:5-20
-MERGED from [com.android.support:support-core-utils:25.3.1] C:\Users\Pium Sudhara\.gradle\caches\transforms-1\files-1.1\support-core-utils-25.3.1.aar\6149b7b34ee5b37bdf76a89a5eb3bd40\AndroidManifest.xml:29:5-20
-MERGED from [com.android.support:support-core-utils:25.3.1] C:\Users\Pium Sudhara\.gradle\caches\transforms-1\files-1.1\support-core-utils-25.3.1.aar\6149b7b34ee5b37bdf76a89a5eb3bd40\AndroidManifest.xml:29:5-20
-MERGED from [com.android.support:support-core-ui:25.3.1] C:\Users\Pium Sudhara\.gradle\caches\transforms-1\files-1.1\support-core-ui-25.3.1.aar\a635974e2ecace531d7e6b7a607eed2b\AndroidManifest.xml:29:5-20
-MERGED from [com.android.support:support-core-ui:25.3.1] C:\Users\Pium Sudhara\.gradle\caches\transforms-1\files-1.1\support-core-ui-25.3.1.aar\a635974e2ecace531d7e6b7a607eed2b\AndroidManifest.xml:29:5-20
-MERGED from [com.android.support:support-compat:25.3.1] C:\Users\Pium Sudhara\.gradle\caches\transforms-1\files-1.1\support-compat-25.3.1.aar\b1dba8217969cfe856a4798dc5a62746\AndroidManifest.xml:29:5-20
-MERGED from [com.android.support:support-compat:25.3.1] C:\Users\Pium Sudhara\.gradle\caches\transforms-1\files-1.1\support-compat-25.3.1.aar\b1dba8217969cfe856a4798dc5a62746\AndroidManifest.xml:29:5-20
+ADDED from C:\Users\school\Desktop\cal\KSCLworkshop\app\src\main\AndroidManifest.xml:5:5-19:19
+MERGED from [com.android.support:appcompat-v7:25.3.1] C:\Users\school\.gradle\caches\transforms-1\files-1.1\appcompat-v7-25.3.1.aar\36b3b70b5468fa4621152fee03a074c3\AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:appcompat-v7:25.3.1] C:\Users\school\.gradle\caches\transforms-1\files-1.1\appcompat-v7-25.3.1.aar\36b3b70b5468fa4621152fee03a074c3\AndroidManifest.xml:29:5-20
+MERGED from [com.android.support.constraint:constraint-layout:1.0.2] C:\Users\school\.gradle\caches\transforms-1\files-1.1\constraint-layout-1.0.2.aar\d2605e4d663bb38cbd77d1cda1a39bdc\AndroidManifest.xml:9:5-20
+MERGED from [com.android.support.constraint:constraint-layout:1.0.2] C:\Users\school\.gradle\caches\transforms-1\files-1.1\constraint-layout-1.0.2.aar\d2605e4d663bb38cbd77d1cda1a39bdc\AndroidManifest.xml:9:5-20
+MERGED from [com.android.support:animated-vector-drawable:25.3.1] C:\Users\school\.gradle\caches\transforms-1\files-1.1\animated-vector-drawable-25.3.1.aar\24e6ba568dac3fda3af6f30ff79e16e2\AndroidManifest.xml:26:5-20
+MERGED from [com.android.support:animated-vector-drawable:25.3.1] C:\Users\school\.gradle\caches\transforms-1\files-1.1\animated-vector-drawable-25.3.1.aar\24e6ba568dac3fda3af6f30ff79e16e2\AndroidManifest.xml:26:5-20
+MERGED from [com.android.support:support-vector-drawable:25.3.1] C:\Users\school\.gradle\caches\transforms-1\files-1.1\support-vector-drawable-25.3.1.aar\f4398c0ce656b723d023a89b9207859c\AndroidManifest.xml:26:5-20
+MERGED from [com.android.support:support-vector-drawable:25.3.1] C:\Users\school\.gradle\caches\transforms-1\files-1.1\support-vector-drawable-25.3.1.aar\f4398c0ce656b723d023a89b9207859c\AndroidManifest.xml:26:5-20
+MERGED from [com.android.support:support-v4:25.3.1] C:\Users\school\.gradle\caches\transforms-1\files-1.1\support-v4-25.3.1.aar\6fc71e533c5b68efb4cdc5c41a52bc1e\AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-v4:25.3.1] C:\Users\school\.gradle\caches\transforms-1\files-1.1\support-v4-25.3.1.aar\6fc71e533c5b68efb4cdc5c41a52bc1e\AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-fragment:25.3.1] C:\Users\school\.gradle\caches\transforms-1\files-1.1\support-fragment-25.3.1.aar\0e0dfdf8e1bb8ddf77f487becad54517\AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-fragment:25.3.1] C:\Users\school\.gradle\caches\transforms-1\files-1.1\support-fragment-25.3.1.aar\0e0dfdf8e1bb8ddf77f487becad54517\AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-media-compat:25.3.1] C:\Users\school\.gradle\caches\transforms-1\files-1.1\support-media-compat-25.3.1.aar\288aebd65102ed09be0e238ec5a4ea3b\AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-media-compat:25.3.1] C:\Users\school\.gradle\caches\transforms-1\files-1.1\support-media-compat-25.3.1.aar\288aebd65102ed09be0e238ec5a4ea3b\AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-core-utils:25.3.1] C:\Users\school\.gradle\caches\transforms-1\files-1.1\support-core-utils-25.3.1.aar\a7c9225ae47a5921d5edbd1e0072658c\AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-core-utils:25.3.1] C:\Users\school\.gradle\caches\transforms-1\files-1.1\support-core-utils-25.3.1.aar\a7c9225ae47a5921d5edbd1e0072658c\AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-core-ui:25.3.1] C:\Users\school\.gradle\caches\transforms-1\files-1.1\support-core-ui-25.3.1.aar\87cfed65b769ff7248224b5c12ce21c4\AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-core-ui:25.3.1] C:\Users\school\.gradle\caches\transforms-1\files-1.1\support-core-ui-25.3.1.aar\87cfed65b769ff7248224b5c12ce21c4\AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-compat:25.3.1] C:\Users\school\.gradle\caches\transforms-1\files-1.1\support-compat-25.3.1.aar\4bf001a7a1c555cfa2947133da042d0f\AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-compat:25.3.1] C:\Users\school\.gradle\caches\transforms-1\files-1.1\support-compat-25.3.1.aar\4bf001a7a1c555cfa2947133da042d0f\AndroidManifest.xml:29:5-20
 	android:supportsRtl
-		ADDED from C:\Users\Pium Sudhara\Desktop\Calculator-App\app\src\main\AndroidManifest.xml:10:9-35
+		ADDED from C:\Users\school\Desktop\cal\KSCLworkshop\app\src\main\AndroidManifest.xml:10:9-35
 	android:label
-		ADDED from C:\Users\Pium Sudhara\Desktop\Calculator-App\app\src\main\AndroidManifest.xml:8:9-41
+		ADDED from C:\Users\school\Desktop\cal\KSCLworkshop\app\src\main\AndroidManifest.xml:8:9-41
 	android:roundIcon
-		ADDED from C:\Users\Pium Sudhara\Desktop\Calculator-App\app\src\main\AndroidManifest.xml:9:9-54
+		ADDED from C:\Users\school\Desktop\cal\KSCLworkshop\app\src\main\AndroidManifest.xml:9:9-54
 	android:icon
-		ADDED from C:\Users\Pium Sudhara\Desktop\Calculator-App\app\src\main\AndroidManifest.xml:7:9-43
+		ADDED from C:\Users\school\Desktop\cal\KSCLworkshop\app\src\main\AndroidManifest.xml:7:9-43
 	android:allowBackup
-		ADDED from C:\Users\Pium Sudhara\Desktop\Calculator-App\app\src\main\AndroidManifest.xml:6:9-35
+		ADDED from C:\Users\school\Desktop\cal\KSCLworkshop\app\src\main\AndroidManifest.xml:6:9-35
 	android:theme
-		ADDED from C:\Users\Pium Sudhara\Desktop\Calculator-App\app\src\main\AndroidManifest.xml:11:9-40
+		ADDED from C:\Users\school\Desktop\cal\KSCLworkshop\app\src\main\AndroidManifest.xml:11:9-40
 activity#luongvo.com.mycalculator.MainActivity
-ADDED from C:\Users\Pium Sudhara\Desktop\Calculator-App\app\src\main\AndroidManifest.xml:12:9-18:20
+ADDED from C:\Users\school\Desktop\cal\KSCLworkshop\app\src\main\AndroidManifest.xml:12:9-18:20
 	android:name
-		ADDED from C:\Users\Pium Sudhara\Desktop\Calculator-App\app\src\main\AndroidManifest.xml:12:19-47
+		ADDED from C:\Users\school\Desktop\cal\KSCLworkshop\app\src\main\AndroidManifest.xml:12:19-47
 intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
-ADDED from C:\Users\Pium Sudhara\Desktop\Calculator-App\app\src\main\AndroidManifest.xml:13:13-17:29
+ADDED from C:\Users\school\Desktop\cal\KSCLworkshop\app\src\main\AndroidManifest.xml:13:13-17:29
 action#android.intent.action.MAIN
-ADDED from C:\Users\Pium Sudhara\Desktop\Calculator-App\app\src\main\AndroidManifest.xml:14:17-69
+ADDED from C:\Users\school\Desktop\cal\KSCLworkshop\app\src\main\AndroidManifest.xml:14:17-69
 	android:name
-		ADDED from C:\Users\Pium Sudhara\Desktop\Calculator-App\app\src\main\AndroidManifest.xml:14:25-66
+		ADDED from C:\Users\school\Desktop\cal\KSCLworkshop\app\src\main\AndroidManifest.xml:14:25-66
 category#android.intent.category.LAUNCHER
-ADDED from C:\Users\Pium Sudhara\Desktop\Calculator-App\app\src\main\AndroidManifest.xml:16:17-77
+ADDED from C:\Users\school\Desktop\cal\KSCLworkshop\app\src\main\AndroidManifest.xml:16:17-77
 	android:name
-		ADDED from C:\Users\Pium Sudhara\Desktop\Calculator-App\app\src\main\AndroidManifest.xml:16:27-74
+		ADDED from C:\Users\school\Desktop\cal\KSCLworkshop\app\src\main\AndroidManifest.xml:16:27-74
 uses-sdk
-INJECTED from C:\Users\Pium Sudhara\Desktop\Calculator-App\app\src\main\AndroidManifest.xml reason: use-sdk injection requested
-INJECTED from C:\Users\Pium Sudhara\Desktop\Calculator-App\app\src\main\AndroidManifest.xml
-INJECTED from C:\Users\Pium Sudhara\Desktop\Calculator-App\app\src\main\AndroidManifest.xml
-MERGED from [com.android.support:appcompat-v7:25.3.1] C:\Users\Pium Sudhara\.gradle\caches\transforms-1\files-1.1\appcompat-v7-25.3.1.aar\c43f46df6e9a48e10eb14264bd32c90b\AndroidManifest.xml:21:5-23:78
-MERGED from [com.android.support:appcompat-v7:25.3.1] C:\Users\Pium Sudhara\.gradle\caches\transforms-1\files-1.1\appcompat-v7-25.3.1.aar\c43f46df6e9a48e10eb14264bd32c90b\AndroidManifest.xml:21:5-23:78
-MERGED from [com.android.support.constraint:constraint-layout:1.0.2] C:\Users\Pium Sudhara\.gradle\caches\transforms-1\files-1.1\constraint-layout-1.0.2.aar\14bc44a454e064faf90385fad8951ff4\AndroidManifest.xml:5:5-7:41
-MERGED from [com.android.support.constraint:constraint-layout:1.0.2] C:\Users\Pium Sudhara\.gradle\caches\transforms-1\files-1.1\constraint-layout-1.0.2.aar\14bc44a454e064faf90385fad8951ff4\AndroidManifest.xml:5:5-7:41
-MERGED from [com.android.support:animated-vector-drawable:25.3.1] C:\Users\Pium Sudhara\.gradle\caches\transforms-1\files-1.1\animated-vector-drawable-25.3.1.aar\9d086c4577b40606fb38907fa525beeb\AndroidManifest.xml:20:5-44
-MERGED from [com.android.support:animated-vector-drawable:25.3.1] C:\Users\Pium Sudhara\.gradle\caches\transforms-1\files-1.1\animated-vector-drawable-25.3.1.aar\9d086c4577b40606fb38907fa525beeb\AndroidManifest.xml:20:5-44
-MERGED from [com.android.support:support-vector-drawable:25.3.1] C:\Users\Pium Sudhara\.gradle\caches\transforms-1\files-1.1\support-vector-drawable-25.3.1.aar\8776ab1f15f7f10313d3e5dbe8563496\AndroidManifest.xml:20:5-43
-MERGED from [com.android.support:support-vector-drawable:25.3.1] C:\Users\Pium Sudhara\.gradle\caches\transforms-1\files-1.1\support-vector-drawable-25.3.1.aar\8776ab1f15f7f10313d3e5dbe8563496\AndroidManifest.xml:20:5-43
-MERGED from [com.android.support:support-v4:25.3.1] C:\Users\Pium Sudhara\.gradle\caches\transforms-1\files-1.1\support-v4-25.3.1.aar\65984f263895d4332daa85cf65bee883\AndroidManifest.xml:21:5-23:54
-MERGED from [com.android.support:support-v4:25.3.1] C:\Users\Pium Sudhara\.gradle\caches\transforms-1\files-1.1\support-v4-25.3.1.aar\65984f263895d4332daa85cf65bee883\AndroidManifest.xml:21:5-23:54
-MERGED from [com.android.support:support-fragment:25.3.1] C:\Users\Pium Sudhara\.gradle\caches\transforms-1\files-1.1\support-fragment-25.3.1.aar\a5b252b9daf622023493610847b96cd7\AndroidManifest.xml:21:5-23:60
-MERGED from [com.android.support:support-fragment:25.3.1] C:\Users\Pium Sudhara\.gradle\caches\transforms-1\files-1.1\support-fragment-25.3.1.aar\a5b252b9daf622023493610847b96cd7\AndroidManifest.xml:21:5-23:60
-MERGED from [com.android.support:support-media-compat:25.3.1] C:\Users\Pium Sudhara\.gradle\caches\transforms-1\files-1.1\support-media-compat-25.3.1.aar\56622594bfda9a8cabec4597b2d5d3fb\AndroidManifest.xml:21:5-23:63
-MERGED from [com.android.support:support-media-compat:25.3.1] C:\Users\Pium Sudhara\.gradle\caches\transforms-1\files-1.1\support-media-compat-25.3.1.aar\56622594bfda9a8cabec4597b2d5d3fb\AndroidManifest.xml:21:5-23:63
-MERGED from [com.android.support:support-core-utils:25.3.1] C:\Users\Pium Sudhara\.gradle\caches\transforms-1\files-1.1\support-core-utils-25.3.1.aar\6149b7b34ee5b37bdf76a89a5eb3bd40\AndroidManifest.xml:21:5-23:61
-MERGED from [com.android.support:support-core-utils:25.3.1] C:\Users\Pium Sudhara\.gradle\caches\transforms-1\files-1.1\support-core-utils-25.3.1.aar\6149b7b34ee5b37bdf76a89a5eb3bd40\AndroidManifest.xml:21:5-23:61
-MERGED from [com.android.support:support-core-ui:25.3.1] C:\Users\Pium Sudhara\.gradle\caches\transforms-1\files-1.1\support-core-ui-25.3.1.aar\a635974e2ecace531d7e6b7a607eed2b\AndroidManifest.xml:21:5-23:58
-MERGED from [com.android.support:support-core-ui:25.3.1] C:\Users\Pium Sudhara\.gradle\caches\transforms-1\files-1.1\support-core-ui-25.3.1.aar\a635974e2ecace531d7e6b7a607eed2b\AndroidManifest.xml:21:5-23:58
-MERGED from [com.android.support:support-compat:25.3.1] C:\Users\Pium Sudhara\.gradle\caches\transforms-1\files-1.1\support-compat-25.3.1.aar\b1dba8217969cfe856a4798dc5a62746\AndroidManifest.xml:21:5-23:58
-MERGED from [com.android.support:support-compat:25.3.1] C:\Users\Pium Sudhara\.gradle\caches\transforms-1\files-1.1\support-compat-25.3.1.aar\b1dba8217969cfe856a4798dc5a62746\AndroidManifest.xml:21:5-23:58
-INJECTED from C:\Users\Pium Sudhara\Desktop\Calculator-App\app\src\main\AndroidManifest.xml
-INJECTED from C:\Users\Pium Sudhara\Desktop\Calculator-App\app\src\main\AndroidManifest.xml
+INJECTED from C:\Users\school\Desktop\cal\KSCLworkshop\app\src\main\AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from C:\Users\school\Desktop\cal\KSCLworkshop\app\src\main\AndroidManifest.xml
+INJECTED from C:\Users\school\Desktop\cal\KSCLworkshop\app\src\main\AndroidManifest.xml
+MERGED from [com.android.support:appcompat-v7:25.3.1] C:\Users\school\.gradle\caches\transforms-1\files-1.1\appcompat-v7-25.3.1.aar\36b3b70b5468fa4621152fee03a074c3\AndroidManifest.xml:21:5-23:78
+MERGED from [com.android.support:appcompat-v7:25.3.1] C:\Users\school\.gradle\caches\transforms-1\files-1.1\appcompat-v7-25.3.1.aar\36b3b70b5468fa4621152fee03a074c3\AndroidManifest.xml:21:5-23:78
+MERGED from [com.android.support.constraint:constraint-layout:1.0.2] C:\Users\school\.gradle\caches\transforms-1\files-1.1\constraint-layout-1.0.2.aar\d2605e4d663bb38cbd77d1cda1a39bdc\AndroidManifest.xml:5:5-7:41
+MERGED from [com.android.support.constraint:constraint-layout:1.0.2] C:\Users\school\.gradle\caches\transforms-1\files-1.1\constraint-layout-1.0.2.aar\d2605e4d663bb38cbd77d1cda1a39bdc\AndroidManifest.xml:5:5-7:41
+MERGED from [com.android.support:animated-vector-drawable:25.3.1] C:\Users\school\.gradle\caches\transforms-1\files-1.1\animated-vector-drawable-25.3.1.aar\24e6ba568dac3fda3af6f30ff79e16e2\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:animated-vector-drawable:25.3.1] C:\Users\school\.gradle\caches\transforms-1\files-1.1\animated-vector-drawable-25.3.1.aar\24e6ba568dac3fda3af6f30ff79e16e2\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:25.3.1] C:\Users\school\.gradle\caches\transforms-1\files-1.1\support-vector-drawable-25.3.1.aar\f4398c0ce656b723d023a89b9207859c\AndroidManifest.xml:20:5-43
+MERGED from [com.android.support:support-vector-drawable:25.3.1] C:\Users\school\.gradle\caches\transforms-1\files-1.1\support-vector-drawable-25.3.1.aar\f4398c0ce656b723d023a89b9207859c\AndroidManifest.xml:20:5-43
+MERGED from [com.android.support:support-v4:25.3.1] C:\Users\school\.gradle\caches\transforms-1\files-1.1\support-v4-25.3.1.aar\6fc71e533c5b68efb4cdc5c41a52bc1e\AndroidManifest.xml:21:5-23:54
+MERGED from [com.android.support:support-v4:25.3.1] C:\Users\school\.gradle\caches\transforms-1\files-1.1\support-v4-25.3.1.aar\6fc71e533c5b68efb4cdc5c41a52bc1e\AndroidManifest.xml:21:5-23:54
+MERGED from [com.android.support:support-fragment:25.3.1] C:\Users\school\.gradle\caches\transforms-1\files-1.1\support-fragment-25.3.1.aar\0e0dfdf8e1bb8ddf77f487becad54517\AndroidManifest.xml:21:5-23:60
+MERGED from [com.android.support:support-fragment:25.3.1] C:\Users\school\.gradle\caches\transforms-1\files-1.1\support-fragment-25.3.1.aar\0e0dfdf8e1bb8ddf77f487becad54517\AndroidManifest.xml:21:5-23:60
+MERGED from [com.android.support:support-media-compat:25.3.1] C:\Users\school\.gradle\caches\transforms-1\files-1.1\support-media-compat-25.3.1.aar\288aebd65102ed09be0e238ec5a4ea3b\AndroidManifest.xml:21:5-23:63
+MERGED from [com.android.support:support-media-compat:25.3.1] C:\Users\school\.gradle\caches\transforms-1\files-1.1\support-media-compat-25.3.1.aar\288aebd65102ed09be0e238ec5a4ea3b\AndroidManifest.xml:21:5-23:63
+MERGED from [com.android.support:support-core-utils:25.3.1] C:\Users\school\.gradle\caches\transforms-1\files-1.1\support-core-utils-25.3.1.aar\a7c9225ae47a5921d5edbd1e0072658c\AndroidManifest.xml:21:5-23:61
+MERGED from [com.android.support:support-core-utils:25.3.1] C:\Users\school\.gradle\caches\transforms-1\files-1.1\support-core-utils-25.3.1.aar\a7c9225ae47a5921d5edbd1e0072658c\AndroidManifest.xml:21:5-23:61
+MERGED from [com.android.support:support-core-ui:25.3.1] C:\Users\school\.gradle\caches\transforms-1\files-1.1\support-core-ui-25.3.1.aar\87cfed65b769ff7248224b5c12ce21c4\AndroidManifest.xml:21:5-23:58
+MERGED from [com.android.support:support-core-ui:25.3.1] C:\Users\school\.gradle\caches\transforms-1\files-1.1\support-core-ui-25.3.1.aar\87cfed65b769ff7248224b5c12ce21c4\AndroidManifest.xml:21:5-23:58
+MERGED from [com.android.support:support-compat:25.3.1] C:\Users\school\.gradle\caches\transforms-1\files-1.1\support-compat-25.3.1.aar\4bf001a7a1c555cfa2947133da042d0f\AndroidManifest.xml:21:5-23:58
+MERGED from [com.android.support:support-compat:25.3.1] C:\Users\school\.gradle\caches\transforms-1\files-1.1\support-compat-25.3.1.aar\4bf001a7a1c555cfa2947133da042d0f\AndroidManifest.xml:21:5-23:58
+INJECTED from C:\Users\school\Desktop\cal\KSCLworkshop\app\src\main\AndroidManifest.xml
+INJECTED from C:\Users\school\Desktop\cal\KSCLworkshop\app\src\main\AndroidManifest.xml
 	tools:overrideLibrary
-		ADDED from [com.android.support:appcompat-v7:25.3.1] C:\Users\Pium Sudhara\.gradle\caches\transforms-1\files-1.1\appcompat-v7-25.3.1.aar\c43f46df6e9a48e10eb14264bd32c90b\AndroidManifest.xml:23:9-75
+		ADDED from [com.android.support:appcompat-v7:25.3.1] C:\Users\school\.gradle\caches\transforms-1\files-1.1\appcompat-v7-25.3.1.aar\36b3b70b5468fa4621152fee03a074c3\AndroidManifest.xml:23:9-75
 	android:targetSdkVersion
-		INJECTED from C:\Users\Pium Sudhara\Desktop\Calculator-App\app\src\main\AndroidManifest.xml
-		ADDED from C:\Users\Pium Sudhara\Desktop\Calculator-App\app\src\main\AndroidManifest.xml
-		INJECTED from C:\Users\Pium Sudhara\Desktop\Calculator-App\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\school\Desktop\cal\KSCLworkshop\app\src\main\AndroidManifest.xml
+		ADDED from C:\Users\school\Desktop\cal\KSCLworkshop\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\school\Desktop\cal\KSCLworkshop\app\src\main\AndroidManifest.xml
 	android:minSdkVersion
-		INJECTED from C:\Users\Pium Sudhara\Desktop\Calculator-App\app\src\main\AndroidManifest.xml
-		ADDED from C:\Users\Pium Sudhara\Desktop\Calculator-App\app\src\main\AndroidManifest.xml
-		INJECTED from C:\Users\Pium Sudhara\Desktop\Calculator-App\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\school\Desktop\cal\KSCLworkshop\app\src\main\AndroidManifest.xml
+		ADDED from C:\Users\school\Desktop\cal\KSCLworkshop\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\school\Desktop\cal\KSCLworkshop\app\src\main\AndroidManifest.xml
 meta-data#android.support.VERSION
-ADDED from [com.android.support:appcompat-v7:25.3.1] C:\Users\Pium Sudhara\.gradle\caches\transforms-1\files-1.1\appcompat-v7-25.3.1.aar\c43f46df6e9a48e10eb14264bd32c90b\AndroidManifest.xml:25:5-27:34
-MERGED from [com.android.support:animated-vector-drawable:25.3.1] C:\Users\Pium Sudhara\.gradle\caches\transforms-1\files-1.1\animated-vector-drawable-25.3.1.aar\9d086c4577b40606fb38907fa525beeb\AndroidManifest.xml:22:5-24:34
-MERGED from [com.android.support:animated-vector-drawable:25.3.1] C:\Users\Pium Sudhara\.gradle\caches\transforms-1\files-1.1\animated-vector-drawable-25.3.1.aar\9d086c4577b40606fb38907fa525beeb\AndroidManifest.xml:22:5-24:34
-MERGED from [com.android.support:support-vector-drawable:25.3.1] C:\Users\Pium Sudhara\.gradle\caches\transforms-1\files-1.1\support-vector-drawable-25.3.1.aar\8776ab1f15f7f10313d3e5dbe8563496\AndroidManifest.xml:22:5-24:34
-MERGED from [com.android.support:support-vector-drawable:25.3.1] C:\Users\Pium Sudhara\.gradle\caches\transforms-1\files-1.1\support-vector-drawable-25.3.1.aar\8776ab1f15f7f10313d3e5dbe8563496\AndroidManifest.xml:22:5-24:34
-MERGED from [com.android.support:support-v4:25.3.1] C:\Users\Pium Sudhara\.gradle\caches\transforms-1\files-1.1\support-v4-25.3.1.aar\65984f263895d4332daa85cf65bee883\AndroidManifest.xml:25:5-27:34
-MERGED from [com.android.support:support-v4:25.3.1] C:\Users\Pium Sudhara\.gradle\caches\transforms-1\files-1.1\support-v4-25.3.1.aar\65984f263895d4332daa85cf65bee883\AndroidManifest.xml:25:5-27:34
-MERGED from [com.android.support:support-fragment:25.3.1] C:\Users\Pium Sudhara\.gradle\caches\transforms-1\files-1.1\support-fragment-25.3.1.aar\a5b252b9daf622023493610847b96cd7\AndroidManifest.xml:25:5-27:34
-MERGED from [com.android.support:support-fragment:25.3.1] C:\Users\Pium Sudhara\.gradle\caches\transforms-1\files-1.1\support-fragment-25.3.1.aar\a5b252b9daf622023493610847b96cd7\AndroidManifest.xml:25:5-27:34
-MERGED from [com.android.support:support-media-compat:25.3.1] C:\Users\Pium Sudhara\.gradle\caches\transforms-1\files-1.1\support-media-compat-25.3.1.aar\56622594bfda9a8cabec4597b2d5d3fb\AndroidManifest.xml:25:5-27:34
-MERGED from [com.android.support:support-media-compat:25.3.1] C:\Users\Pium Sudhara\.gradle\caches\transforms-1\files-1.1\support-media-compat-25.3.1.aar\56622594bfda9a8cabec4597b2d5d3fb\AndroidManifest.xml:25:5-27:34
-MERGED from [com.android.support:support-core-utils:25.3.1] C:\Users\Pium Sudhara\.gradle\caches\transforms-1\files-1.1\support-core-utils-25.3.1.aar\6149b7b34ee5b37bdf76a89a5eb3bd40\AndroidManifest.xml:25:5-27:34
-MERGED from [com.android.support:support-core-utils:25.3.1] C:\Users\Pium Sudhara\.gradle\caches\transforms-1\files-1.1\support-core-utils-25.3.1.aar\6149b7b34ee5b37bdf76a89a5eb3bd40\AndroidManifest.xml:25:5-27:34
-MERGED from [com.android.support:support-core-ui:25.3.1] C:\Users\Pium Sudhara\.gradle\caches\transforms-1\files-1.1\support-core-ui-25.3.1.aar\a635974e2ecace531d7e6b7a607eed2b\AndroidManifest.xml:25:5-27:34
-MERGED from [com.android.support:support-core-ui:25.3.1] C:\Users\Pium Sudhara\.gradle\caches\transforms-1\files-1.1\support-core-ui-25.3.1.aar\a635974e2ecace531d7e6b7a607eed2b\AndroidManifest.xml:25:5-27:34
-MERGED from [com.android.support:support-compat:25.3.1] C:\Users\Pium Sudhara\.gradle\caches\transforms-1\files-1.1\support-compat-25.3.1.aar\b1dba8217969cfe856a4798dc5a62746\AndroidManifest.xml:25:5-27:34
-MERGED from [com.android.support:support-compat:25.3.1] C:\Users\Pium Sudhara\.gradle\caches\transforms-1\files-1.1\support-compat-25.3.1.aar\b1dba8217969cfe856a4798dc5a62746\AndroidManifest.xml:25:5-27:34
+ADDED from [com.android.support:appcompat-v7:25.3.1] C:\Users\school\.gradle\caches\transforms-1\files-1.1\appcompat-v7-25.3.1.aar\36b3b70b5468fa4621152fee03a074c3\AndroidManifest.xml:25:5-27:34
+MERGED from [com.android.support:animated-vector-drawable:25.3.1] C:\Users\school\.gradle\caches\transforms-1\files-1.1\animated-vector-drawable-25.3.1.aar\24e6ba568dac3fda3af6f30ff79e16e2\AndroidManifest.xml:22:5-24:34
+MERGED from [com.android.support:animated-vector-drawable:25.3.1] C:\Users\school\.gradle\caches\transforms-1\files-1.1\animated-vector-drawable-25.3.1.aar\24e6ba568dac3fda3af6f30ff79e16e2\AndroidManifest.xml:22:5-24:34
+MERGED from [com.android.support:support-vector-drawable:25.3.1] C:\Users\school\.gradle\caches\transforms-1\files-1.1\support-vector-drawable-25.3.1.aar\f4398c0ce656b723d023a89b9207859c\AndroidManifest.xml:22:5-24:34
+MERGED from [com.android.support:support-vector-drawable:25.3.1] C:\Users\school\.gradle\caches\transforms-1\files-1.1\support-vector-drawable-25.3.1.aar\f4398c0ce656b723d023a89b9207859c\AndroidManifest.xml:22:5-24:34
+MERGED from [com.android.support:support-v4:25.3.1] C:\Users\school\.gradle\caches\transforms-1\files-1.1\support-v4-25.3.1.aar\6fc71e533c5b68efb4cdc5c41a52bc1e\AndroidManifest.xml:25:5-27:34
+MERGED from [com.android.support:support-v4:25.3.1] C:\Users\school\.gradle\caches\transforms-1\files-1.1\support-v4-25.3.1.aar\6fc71e533c5b68efb4cdc5c41a52bc1e\AndroidManifest.xml:25:5-27:34
+MERGED from [com.android.support:support-fragment:25.3.1] C:\Users\school\.gradle\caches\transforms-1\files-1.1\support-fragment-25.3.1.aar\0e0dfdf8e1bb8ddf77f487becad54517\AndroidManifest.xml:25:5-27:34
+MERGED from [com.android.support:support-fragment:25.3.1] C:\Users\school\.gradle\caches\transforms-1\files-1.1\support-fragment-25.3.1.aar\0e0dfdf8e1bb8ddf77f487becad54517\AndroidManifest.xml:25:5-27:34
+MERGED from [com.android.support:support-media-compat:25.3.1] C:\Users\school\.gradle\caches\transforms-1\files-1.1\support-media-compat-25.3.1.aar\288aebd65102ed09be0e238ec5a4ea3b\AndroidManifest.xml:25:5-27:34
+MERGED from [com.android.support:support-media-compat:25.3.1] C:\Users\school\.gradle\caches\transforms-1\files-1.1\support-media-compat-25.3.1.aar\288aebd65102ed09be0e238ec5a4ea3b\AndroidManifest.xml:25:5-27:34
+MERGED from [com.android.support:support-core-utils:25.3.1] C:\Users\school\.gradle\caches\transforms-1\files-1.1\support-core-utils-25.3.1.aar\a7c9225ae47a5921d5edbd1e0072658c\AndroidManifest.xml:25:5-27:34
+MERGED from [com.android.support:support-core-utils:25.3.1] C:\Users\school\.gradle\caches\transforms-1\files-1.1\support-core-utils-25.3.1.aar\a7c9225ae47a5921d5edbd1e0072658c\AndroidManifest.xml:25:5-27:34
+MERGED from [com.android.support:support-core-ui:25.3.1] C:\Users\school\.gradle\caches\transforms-1\files-1.1\support-core-ui-25.3.1.aar\87cfed65b769ff7248224b5c12ce21c4\AndroidManifest.xml:25:5-27:34
+MERGED from [com.android.support:support-core-ui:25.3.1] C:\Users\school\.gradle\caches\transforms-1\files-1.1\support-core-ui-25.3.1.aar\87cfed65b769ff7248224b5c12ce21c4\AndroidManifest.xml:25:5-27:34
+MERGED from [com.android.support:support-compat:25.3.1] C:\Users\school\.gradle\caches\transforms-1\files-1.1\support-compat-25.3.1.aar\4bf001a7a1c555cfa2947133da042d0f\AndroidManifest.xml:25:5-27:34
+MERGED from [com.android.support:support-compat:25.3.1] C:\Users\school\.gradle\caches\transforms-1\files-1.1\support-compat-25.3.1.aar\4bf001a7a1c555cfa2947133da042d0f\AndroidManifest.xml:25:5-27:34
 	android:value
-		ADDED from [com.android.support:appcompat-v7:25.3.1] C:\Users\Pium Sudhara\.gradle\caches\transforms-1\files-1.1\appcompat-v7-25.3.1.aar\c43f46df6e9a48e10eb14264bd32c90b\AndroidManifest.xml:27:9-31
+		ADDED from [com.android.support:appcompat-v7:25.3.1] C:\Users\school\.gradle\caches\transforms-1\files-1.1\appcompat-v7-25.3.1.aar\36b3b70b5468fa4621152fee03a074c3\AndroidManifest.xml:27:9-31
 	android:name
-		ADDED from [com.android.support:appcompat-v7:25.3.1] C:\Users\Pium Sudhara\.gradle\caches\transforms-1\files-1.1\appcompat-v7-25.3.1.aar\c43f46df6e9a48e10eb14264bd32c90b\AndroidManifest.xml:26:9-47
+		ADDED from [com.android.support:appcompat-v7:25.3.1] C:\Users\school\.gradle\caches\transforms-1\files-1.1\appcompat-v7-25.3.1.aar\36b3b70b5468fa4621152fee03a074c3\AndroidManifest.xml:26:9-47

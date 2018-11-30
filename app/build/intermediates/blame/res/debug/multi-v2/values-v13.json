@@ -1,10 +1,10 @@
 {
     "logs": [
         {
-            "outputFile": "C:\\Users\\Pium Sudhara\\Desktop\\Calculator-App\\app\\build\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values-v13\\values-v13.xml",
+            "outputFile": "C:\\Users\\school\\Desktop\\cal\\KSCLworkshop\\app\\build\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values-v13\\values-v13.xml",
             "map": [
                 {
-                    "source": "C:\\Users\\Pium Sudhara\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-25.3.1.aar\\c43f46df6e9a48e10eb14264bd32c90b\\res\\values-v13\\values-v13.xml",
+                    "source": "C:\\Users\\school\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-25.3.1.aar\\36b3b70b5468fa4621152fee03a074c3\\res\\values-v13\\values-v13.xml",
                     "from": {
                         "startLines": "2",
                         "startColumns": "4",

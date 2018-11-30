@@ -123,7 +123,7 @@ public class MainActivity extends AppCompatActivity {
         buttonMul.setOnClickListener(new View.OnClickListener() {
             @Override
             public void onClick(View v) {
-                onOperatorButtonClicked("X");
+                onOperatorButtonClicked("*");
             }
         });
         buttonDiv.setOnClickListener(new View.OnClickListener() {
@@ -150,6 +150,15 @@ public class MainActivity extends AppCompatActivity {
                 case "+":
                     res = number + number2;
                     break;
+                case "-":
+                    res = number - number2;
+                    break;
+                case "*":
+                    res = number * number2;
+                    break;
+                case "/":
+                    res = number / number2;
+                    break;
             }
             result = String.valueOf(res);
             resultTextView.setText(result);
@@ -158,6 +167,8 @@ public class MainActivity extends AppCompatActivity {
             e.printStackTrace();
         }
     }
+
+
 
     private void onOperatorButtonClicked(String operator) {
         this.tmp = resultTextView.getText().toString();
